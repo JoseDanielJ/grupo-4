@@ -51,5 +51,4 @@ export const Search = () => {
     </div>
   );
 };
-//1010max
-//evitar letras en el input
+
